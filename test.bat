@@ -1,0 +1,1 @@
+C:\Users\federico.levis\.jdks\jbr-17.0.9\bin\java.exe -jar ./target/demo-0.0.1-SNAPSHOT.jar
