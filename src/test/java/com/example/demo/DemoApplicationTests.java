@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 /*
-Classwe per iTest
+Classe per iTest
  */
 
 @SpringBootTest
