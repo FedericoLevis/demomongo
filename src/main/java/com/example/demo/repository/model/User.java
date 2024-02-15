@@ -4,7 +4,7 @@ import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-//lombok: genero Get, Costruttoe senza Arg e Costruttore con Tutti gli Arg. C'e` anche Setter
+//lombok: utile per generare Get, Costruttoe senza Arg e Costruttore con Tutti gli Arg. C'e` anche Setter
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
